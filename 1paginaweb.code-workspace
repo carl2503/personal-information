@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "1paginaweb",
+			"path": "."
+		},
+		{
+			"name": "imagenes",
+			"path": "../../../Downloads/curso-creacion-paginas-web-8-primera-pagina/imagenes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1paginaweb"
+	}
+}
